@@ -21,6 +21,7 @@ Description:
 A recursive function prints each digit of a number on a separate line.
 <img width="421" height="89" alt="image" src="https://github.com/user-attachments/assets/7e454d62-357c-4c47-9c67-40d8035e9559" />
 <img width="99" height="142" alt="image" src="https://github.com/user-attachments/assets/cc985099-4dca-4a74-b3c5-cd8a753867a8" />
+<img width="556" height="357" alt="image" src="https://github.com/user-attachments/assets/4343201f-dffb-485a-bbf1-f302d2bb94b4" />
 
 
 Task 2 – Average of Elements
