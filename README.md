@@ -1,5 +1,4 @@
 Assignment 1 – Recursion
-Student Information
 Name: Kanat Serikbay
 Group: IT-2503
 
@@ -16,6 +15,7 @@ The tasks include working with numbers (digits, factorial, prime), sequences (Fi
 The program was tested using sample inputs, and correct outputs were obtained for all tasks.
 
 Tasks
+
 Task 1 – Print Digits of a Number
 Description:
 A recursive function prints each digit of a number on a separate line.
