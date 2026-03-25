@@ -81,13 +81,13 @@ A recursive function calculates the GCD using the Euclidean algorithm.
 
 Explanation of Approach
 Each task was solved using recursion by:
-•	Defining a base case to terminate recursion
-•	Reducing the problem into smaller subproblems
-•	Combining results from recursive calls
+•	Definition of a base case to terminate recursion
+•	By educing the problem into smaller subproblems
+•	And combining results from recursive calls
 No loops (for, while, do-while) were used in any part of the code, as required by the assignment.
 
 Conclusion
-This assignment helped improve understanding of recursion and problem-solving skills.
-It demonstrated how complex problems can be broken down into smaller, manageable parts using recursive thinking.
+This assignment helped me to improve understanding of recursion and solution of problems related to this topic.
+IT showed how complex problems can be solved by using divide and conquer method, that is by breaking big problem into smaller ones and solving them
 
 
