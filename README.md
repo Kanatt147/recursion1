@@ -80,7 +80,7 @@ A recursive function calculates the GCD using the Euclidean algorithm.
 
 
 Explanation of Approach
-Each task was solved using recursion by:
+Each task was solved by recursion and i followed these steps:
 •	Definition of a base case to terminate recursion
 •	By educing the problem into smaller subproblems
 •	And combining results from recursive calls
